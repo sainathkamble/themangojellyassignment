@@ -4,7 +4,7 @@ A responsive and visually appealing chat application built with React, Material-
 
 ## Deployed Link
 
-The deployed version of the application at: [Chat Application Live](https://chat-app-two-eosin-36.vercel.app/)
+The deployed version of the application at: [Chat Application Live](https://vercel.com/sainaths-projects-c6957d25/themangojellyassignment/8RkhDocWoxZcoCtwyRDLhPf9Xvvf/)
 
 ## Features
 
